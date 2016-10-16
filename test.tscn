@@ -1,0 +1,72 @@
+[gd_scene format=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Polygon1" type="Polygon2D" parent="."]
+
+transform/pos = Vector2( -331.991, 210.095 )
+transform/rot = -0.448378
+polygon = Vector2Array( 145.257, 45.6006, 201.78, 11.7537, 144.319, -48.4883, 170.152, -109.094, 88.2556, -124.056, 73.5317, -188.272, -1.51817, -152.239, -51.1749, -195.536, -90.712, -122.272, -156.334, -128.112, -145.257, -45.6006, -201.78, -11.7536, -144.319, 48.4883, -170.152, 109.094, -88.2557, 124.056, -73.5318, 188.272, 1.51815, 152.239, 51.1749, 195.536, 90.712, 122.272, 156.334, 128.112 )
+uv = Vector2Array(  )
+color = Color( 1, 1, 1, 1 )
+vertex_colors = ColorArray(  )
+offset = Vector2( 0, 0 )
+texture/texture = null
+texture/offset = Vector2( 0, 0 )
+texture/scale = Vector2( 1, 1 )
+texture/rotation = 0.0
+invert/enable = false
+invert/border = 100.0
+__meta__ = { "simple_shape":{ "count":10.0, "height":217.012, "point1":Vector2( 145.257, 45.6006 ), "point2":Vector2( 201.78, 11.7537 ), "shape":3, "width":425.603 } }
+
+[node name="Polygon2" type="Polygon2D" parent="."]
+
+transform/pos = Vector2( 292.303, 194.642 )
+transform/scale = Vector2( 0.949723, 1.04599 )
+polygon = Vector2Array( 36.8695, 19.536, 174.04, -90.6392, -1.51607, -41.6979, -165.516, -105.403, -35.3534, 22.1619, -8.52401, 196.043 )
+uv = Vector2Array(  )
+color = Color( 1, 1, 1, 1 )
+vertex_colors = ColorArray(  )
+offset = Vector2( 0, 0 )
+texture/texture = null
+texture/offset = Vector2( 0, 0 )
+texture/scale = Vector2( 1, 1 )
+texture/rotation = 0.0
+invert/enable = false
+invert/border = 100.0
+__meta__ = { "simple_shape":{ "count":3, "point1":Vector2( 36.8695, 19.536 ), "point2":Vector2( 174.04, -90.6392 ), "shape":3 } }
+
+[node name="Polygon3" type="Polygon2D" parent="."]
+
+transform/pos = Vector2( 238.918, -291.414 )
+transform/scale = Vector2( 1.96494, 1 )
+polygon = Vector2Array( 49.7592, 4.90086, 47.847, 14.5142, 44.0961, 23.5698, 38.6505, 31.7197, 31.7197, 38.6505, 23.5698, 44.0961, 14.5142, 47.847, 4.90086, 49.7592, -4.90086, 49.7592, -14.5142, 47.847, -23.5698, 44.0961, -31.7197, 38.6505, -38.6505, 31.7197, -44.0961, 23.5698, -47.847, 14.5142, -49.7592, 4.90086, -49.7592, -4.90086, -47.847, -14.5142, -44.0961, -23.5698, -38.6505, -31.7197, -31.7197, -38.6505, -23.5698, -44.0961, -14.5142, -47.847, -4.90086, -49.7592, 4.90086, -49.7592, 14.5142, -47.847, 23.5698, -44.0961, 31.7197, -38.6505, 38.6505, -31.7197, 44.0961, -23.5698, 47.847, -14.5142, 49.7592, -4.90086 )
+uv = Vector2Array(  )
+color = Color( 1, 1, 1, 1 )
+vertex_colors = ColorArray(  )
+offset = Vector2( 0, 0 )
+texture/texture = null
+texture/offset = Vector2( 0, 0 )
+texture/scale = Vector2( 1, 1 )
+texture/rotation = 0.0
+invert/enable = false
+invert/border = 100.0
+__meta__ = { "simple_shape":{ "height":50, "shape":2, "width":50 } }
+
+[node name="Polygon4" type="Polygon2D" parent="."]
+
+transform/pos = Vector2( -416.142, -253.162 )
+polygon = Vector2Array( -195.643, -92.4487, -195.643, 92.4487, 195.643, 92.4487, 195.643, -92.4487 )
+uv = Vector2Array(  )
+color = Color( 1, 1, 1, 1 )
+vertex_colors = ColorArray(  )
+offset = Vector2( 0, 0 )
+texture/texture = null
+texture/offset = Vector2( 0, 0 )
+texture/scale = Vector2( 1, 1 )
+texture/rotation = 0.0
+invert/enable = false
+invert/border = 100.0
+__meta__ = { "simple_shape":{ "count":6.0, "height":92.4487, "point1":Vector2( 50.3374, 32.3223 ), "point2":Vector2( 157.229, 7.26967 ), "shape":1, "width":195.643 } }
+
+
